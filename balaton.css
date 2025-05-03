@@ -66,6 +66,7 @@ td:nth-child(2){
 p{
     text-align: justify;
     padding: 5px;
+    text-indent: 25px;
     
 }
 figure{
